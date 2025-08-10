@@ -1,0 +1,11 @@
+package com.fanap.model.ccms.data.facility;
+
+/**
+ * @author f.eskandari
+ * @date 8/10/2025
+ */
+public class Hello {
+    public static void main(String[] args) {
+        System.out.println("Hello World!");
+    }
+}
